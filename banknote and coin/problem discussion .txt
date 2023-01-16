@@ -1,0 +1,3 @@
+ /*ekane double number er moddeh point er ager number ke ekta int number and point er por er 
+number ke arekta int number dhore korte hbe. ekane (w_taka) ta hocceh point er ager number ar
+coin ta hocceh point er porer number but int number e kore disi */
